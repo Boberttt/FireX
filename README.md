@@ -1,6 +1,13 @@
 # FireX
-
-Update:
+IMPORTANT:
+ 
+V2 and V1 are the same (V2 is better), V3 is meant to harm your computer (I tested it, it works, message me if you need help recovering). These will be updated under the same names
+ 
+2.0:
+ 
+Now has some basic things that I forgot.
+ 
+3.0:
 
 FireXV3 can destroy a computer, it's a compiled version of bomb.bat
 
